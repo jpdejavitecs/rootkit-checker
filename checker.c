@@ -74,5 +74,5 @@ module_exit(syshook_cleanup);
 /* ----------------------- MODULE INFO ----------------------- */
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_AUTHOR("jpdejavitecs & cryptocrawll");
+MODULE_AUTHOR("jpdejavitecs & cryptothiago");
 MODULE_DESCRIPTION("A module to check syscall addresses");
